@@ -8,3 +8,15 @@ A machine learning project that classifies news articles as FAKE or REAL using t
 
 Fake news has become a major problem across social media and online platforms.
 This project aims to build a machine learning model that can automatically detect whether a news article is real or fake based on its content.
+
+# The workflow includes:
+
+Data cleaning
+
+Text preprocessing
+
+Feature extraction
+
+Training machine learning models
+
+Evaluating performance
